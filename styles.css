@@ -1,0 +1,20 @@
+h1 {
+  margin: 50px auto;
+  color: blue;
+  text-align: center;
+  font-family: Montserrat;
+  max-width: 70%;
+}
+
+hr {
+  visibility: hidden;
+}
+
+#myDiv {
+  width: 100px;
+  word-wrap: break-word;
+}
+
+#submit-button {
+  margin-top: 10px;
+}
